@@ -1,0 +1,6 @@
+Current Temperature is  68
+Current Humidity is  22 %
+Alarm is ON
+Current Temperature is  53
+Current Humidity is  96 %
+Alarm is OFF
