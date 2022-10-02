@@ -1,4 +1,0 @@
-CurrentTemperature is 63
-Current Humidity is 43 %
-Alaram is OFF
-> 
