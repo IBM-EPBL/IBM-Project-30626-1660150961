@@ -1,0 +1,3 @@
+Current Temperature is 17
+Current Humidity is 27 %
+Alarm is OFF
